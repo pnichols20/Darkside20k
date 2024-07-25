@@ -14,7 +14,7 @@ Here are the steps to follow in order to properly use it:
 - Use the tuple values for rectangles as described when you want to make more rectangles:
     - (left_limit, right_limit, lower_limit, upper_limit)
 
-- Future statistical modeling could be used to show how each type of noise occures
+- Future statistical modeling could be used to show how each type of noise occurs
     - How do neighboring SPADs interact??
     - Use our proportions to compare single vs double vs ... DiCT and compare it to models
 
